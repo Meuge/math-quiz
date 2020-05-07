@@ -1,5 +1,5 @@
 {
-  "name": "quiz-math",
+  "name": "hh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,8 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "react-string-format": "0.0.6",
-    "react-transition-group": "^4.4.0"
+    "simple.string.format": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",

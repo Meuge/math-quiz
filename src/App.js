@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { format } from 'react-string-format';
+import "simple.string.format";
 import quizQuestions from './questions/allQuestions';
 import Quiz from './components/Quiz';
 import Result from './components/Result';
@@ -180,7 +180,7 @@ class App extends Component {
 
   obtainResults() {
     const answersQuantity = this.state.answersQuantity;
-    return format('Haz logrado responder {0} preguntas correctamente de {1}', answersQuantity["correct"]?answersQuantity["correct"]:0, quizQuestions.length);
+    return ('Haz logrado responder {0} preguntas correctamente de {1}'.format( answersQuantity["correct"]?answersQuantity["correct"]:0, quizQuestions.length));
   }
 
   setResults(result) {
