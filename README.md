@@ -8,7 +8,7 @@ Luego para ejecutar el proyecto y visitarlo en su localhost, debe correr los sig
 
 #### `npm start`
 
-También puede visitarlo en  ......
+También puede visitarlo en  https://quiz-math--meuge.repl.co
 
 _____________________________________________
 
@@ -23,7 +23,7 @@ In order to be able to run it, please follow the next commands:
 
 #### `npm start`
 
-You can also check it in .....
+You can also check it in https://quiz-math--meuge.repl.co
 
 
 
