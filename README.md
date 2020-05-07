@@ -15,7 +15,7 @@ _____________________________________________
 
 ### Math Quiz App for primary school children
 
-To run this project you need to have [Node.js] installed in your machine (https://nodejs.org/en/download/)
+To run this project you need to have [Node.js](https://nodejs.org/en/download/) installed in your machine 
 
 In order to be able to run it, please follow the next commands:
 
